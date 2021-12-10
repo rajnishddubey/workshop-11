@@ -1,0 +1,4 @@
+PUT:localhost:4000/user/61b1fdd281b38dd400988fe6
+DELETE:localhost:4000/user/61b1f334a9bcb1057e00bdfd
+GET:localhost:4000/user
+POST:localhost:4000/user
